@@ -1,5 +1,7 @@
 # Day 01 - [Linux Fundamentals and Architecture]
 
+---
+
 ## Objective
 
 The goal for today is 
@@ -26,6 +28,7 @@ By the end of today, I should be able to:
     - System structure
     - User interaction (CLI vs GUI emphasis)
     - Flexibility and control
+
 ---
 
 ## What I Built / Practiced
@@ -37,7 +40,6 @@ By the end of today, I should be able to:
 - Explored directory structure using pwd
 - view file content using ```cat``` and navigating the file editor using ```nano```
 
----
 
 ---
 
@@ -54,7 +56,7 @@ By the end of today, I should be able to:
 
 https://www.geeksforgeeks.org/linux-unix/introduction-to-linux-operating-system/
 
-and https://www.youtube.com/watch?v=ZtqBQ68cfJc
+https://www.youtube.com/watch?v=ZtqBQ68cfJc
 
 ---
 
@@ -70,6 +72,7 @@ and https://www.youtube.com/watch?v=ZtqBQ68cfJc
 - cat =  view content in a file
 - nano =  to write in a file
 
+Commands screenshots
 
 ![Linux basic commands snippet](image.png)
 ![file content display](image-3.png)
