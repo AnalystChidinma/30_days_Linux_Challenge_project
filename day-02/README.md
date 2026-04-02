@@ -74,7 +74,7 @@ Linux is Unix-like but not Unix. It follows similar design principles while rema
 - Compared Linux vs Unix in detail  
 - Reviewed Linux architecture and system components  
 - Gained exposure to basic Linux commands and package managers (`apt`, `dnf`) 
-- 
+- worked on some basic linux commands
 
 ---
 
