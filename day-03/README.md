@@ -119,15 +119,15 @@ rm data/dataset2.csv
 rm -r tmp/
 
 
-![created sandbox directories](mkdir.PNG)
+![sandbox directory](mkdir.PNG)
 
-![project folders](subdirectories.PNG)
+![subfolders](subdirectories.PNG)
 
-![command navigation](image.png)
+![navigating folders](<Added sample files.PNG>)
 
-![folders structure](<directory tree.PNG>)
+![navigating commands](<navigation in linux.PNG>)
 
-![linux basic commands](<Added sample files.PNG>)
+![copy and move files](<final scripts.PNG>)
 
 
 
