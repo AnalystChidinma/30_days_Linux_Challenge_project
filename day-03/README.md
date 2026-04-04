@@ -24,7 +24,7 @@ By the end of today, I should be able to:
 
 ---
 
-## What I Built / Practiced
+## What I Practiced
 
 - Created a **sandbox Linux environment** in `~/linux_root`  
 - Created subdirectories: `project`, `scripts`, `data`, `documents`  
@@ -76,7 +76,7 @@ By the end of today, I should be able to:
 | `rm -r <directory>` | Remove a directory recursively |
 
 
-### Exercise Commands
+### Practical steps
 
 - Create sandbox directories in my home directory
 `mkdir -p ~/linux_root/home/linux_user`
@@ -89,9 +89,13 @@ By the end of today, I should be able to:
 `mkdir project scripts data documents`
 
 - Add sample files
+
 `touch project/main.txt project/README.md`
+
 `touch scripts/scripts.sh scripts/clean_scripts.sh`
+
 `touch data/dataset.csv data/dataset.json data/dataset1_backup.csv data/dataset.parquest`
+
 `touch documents/notes.txt documents/doc.png`
 
 - navigate through the folders
@@ -109,8 +113,11 @@ By the end of today, I should be able to:
 `mv scripts/cleanup.sh scripts/old_cleanup.sh`
 
 # Remove files
+
 rm data/dataset2.csv
+
 rm -r tmp/
+
 
 ![created sandbox directories](mkdir.PNG)
 
@@ -121,6 +128,7 @@ rm -r tmp/
 ![folders structure](<directory tree.PNG>)
 
 ![linux basic commands](<Added sample files.PNG>)
+
 
 
 
