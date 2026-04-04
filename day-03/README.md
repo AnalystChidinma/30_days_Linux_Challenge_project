@@ -121,9 +121,9 @@ rm -r tmp/
 
 ![sandbox directory](mkdir.PNG)
 
-![subfolders](subdirectories.PNG)
+![mkdir](subdirectories.PNG)
 
-![navigating folders](<Added sample files.PNG>)
+![Linux Commands](<Added sample files.PNG>)
 
 ![navigating commands](<navigation in linux.PNG>)
 
