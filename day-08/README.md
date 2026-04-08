@@ -1,4 +1,4 @@
-# Day 08 - Users In Linux System Admins=istration
+# Day 08 - Users In Linux System Adminstration
 
 ## Objective
 
