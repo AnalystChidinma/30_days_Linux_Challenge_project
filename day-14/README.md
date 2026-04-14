@@ -1,10 +1,8 @@
-# Day 14 - ip commands in linux
+# Day 14 - top commands in linux
 
 ## Objective
 
-What was the goal for today?
-git add .
-git add .
+
 
 ---
 
