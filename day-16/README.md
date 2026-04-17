@@ -74,6 +74,4 @@ Observed real-time network changes
 
 - https://www.geeksforgeeks.org/linux-unix/ip-command-in-linux-with-examples/
 
----
 
-## Output
