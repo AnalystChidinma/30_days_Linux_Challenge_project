@@ -75,7 +75,7 @@ Specified destination port
 
 ## Challenges Faced
 
-- unabel to install the traceroute
+- unable to install the traceroute
 
 ---
 
