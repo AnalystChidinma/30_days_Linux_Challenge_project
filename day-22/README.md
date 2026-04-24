@@ -137,8 +137,6 @@ Explored function-based scripting (jump script concept)
 
 ---
 
----
-
 ## Key Takeaways
 
 - The shell is the core interface for interacting with Linux
@@ -164,9 +162,11 @@ Explored function-based scripting (jump script concept)
 
 
 Made the script executable
+
 ![alt text](image-2.png)
 
 including a viariable and accepting input
+
 ![alt text](image-3.png)
 
 ![alt text](image-4.png)
