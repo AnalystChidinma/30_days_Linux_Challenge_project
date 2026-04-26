@@ -146,6 +146,6 @@ echo "Chidinma"
 
 ## Resources
 
-- 
+- https://www.geeksforgeeks.org/linux-unix/bash-scripting-functions/
 
 ---
