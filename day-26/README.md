@@ -41,9 +41,13 @@ a=10
 b=5
 
 echo "Addition: $((a + b))"
+
 echo "Subtraction: $((a - b))"
+
 echo "Multiplication: $((a * b))"
+
 echo "Division: $((a / b))"
+
 echo "Modulus: $((a % b))"
 
 #### 3. Relational Operators
@@ -84,11 +88,15 @@ fi
 Operate on binary representations of numbers.
 
 Operator	Description
+
 &	        AND
+
 |           OR
+
 <<	        Left shift
->>          Right shift
+
 ~	        NOT
+
 ^	        XOR
 
 
@@ -96,7 +104,9 @@ a=5
 b=3
 
 echo "AND: $((a & b))"
+
 echo "OR: $((a | b))"
+
 echo "XOR: $((a ^ b))"
 
 #### 6. File Test Operators
@@ -104,12 +114,19 @@ echo "XOR: $((a ^ b))"
 Used to check file and directory properties.
 
 Operator	Meaning
+
 -e	File exists
+
 -d	Is directory
+
 -f	Is regular file
+
 -r	Read permission
+
 -w	Write permission
+
 -x	Execute permission
+
 -s	File not empty
 
 ---
