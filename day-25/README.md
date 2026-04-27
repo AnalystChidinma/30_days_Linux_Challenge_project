@@ -28,6 +28,7 @@ function_name() {
 }
 
 # Call the function
+
 function_name
 - Example:
 
@@ -49,6 +50,7 @@ $2 → Second argument
 $n → nth argument
 
 Example:
+
 #!/bin/bash
 
 add_two_num() {
@@ -82,6 +84,7 @@ Important:
 - For real outputs → use echo or command substitution
 
 #### 5. Function with Arguments + Return
+
 #!/bin/bash
 
 add_two_num() {
@@ -102,23 +105,27 @@ Example:
 
 #!/bin/bash
 
-var1="Apple"   # global
+var1="Apple"    global variable
 
 myfun() {
-    local var2="Banana"   # local
-    var3="Cherry"         # global
+    local var2="Banana"   local variable
+
+    var3="Cherry"         global variable
 
     echo "First fruit: $var1"
+
     echo "Second fruit: $var2"
 }
 
 myfun
 
 echo "First fruit: $var1"
-echo "Second fruit: $var2"   # empty
+
+echo "Second fruit: $var2"
+
 echo "Third fruit: $var3"
 
-####7. Overriding Commands
+#### 7. Overriding Commands
 
 Bash allows redefining built-in commands using functions.
 
@@ -127,6 +134,7 @@ Example:
 #!/bin/bash
 
 echo() {
+    
     builtin echo "The name is: $1"
 }
 
