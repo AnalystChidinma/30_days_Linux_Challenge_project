@@ -35,9 +35,13 @@ Understand how to monitor and analyze disk space usage in Linux systems using th
 - Practiced filtering and analyzing file systems using different options like:
 
     -a (all file systems)
+
     -i (inode usage)
+
     -t (specific file system type)
+
     -x (exclude file system type)
+    
     -h ( human readable)
 
 ---
